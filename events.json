@@ -1,0 +1,25 @@
+{
+    "guilds": {
+        "1074695626182361179": {
+            "antinuke": {
+                "antirole-delete": true,
+                "antirole-create": true,
+                "antirole-update": true,
+                "antichannel-create": true,
+                "antichannel-delete": true,
+                "antichannel-update": true,
+                "antiban": true,
+                "antikick": true,
+                "antiwebhook": true,
+                "antibot": true,
+                "antiserver": true,
+                "antiping": true,
+                "antiprune": true,
+                "antiemoji-delete": true,
+                "antiemoji-create": true,
+                "antiemoji-update": true,
+                "antimemberrole-update": true
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "guilds": {
+        "1016960892421812284": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": "!",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        
+        }
+    }
+}
